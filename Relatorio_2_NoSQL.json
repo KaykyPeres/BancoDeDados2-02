@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "64e7ee1710d6d8690a91ce8c"
+  },
+  "aula_id": 1,
+  "professor": {
+    "nome": "Valerio",
+    "email": "professorValerio@gmail.com"
+  },
+  "assunto": "Introdução a Programação",
+  "alunos": [
+    {
+      "nome": "Alfredo",
+      "matricula": "111"
+    },
+    {
+      "nome": "Jaspion",
+      "matricula": "222"
+    },
+    {
+      "nome": "Nicole",
+      "matricula": "333"
+    },
+    {
+      "nome": "Jhony",
+      "matricula": "444"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e7ee1710d6d8690a91ce8d"
+  },
+  "aula_id": 2,
+  "professor": {
+    "nome": "Jacksson",
+    "email": "professorJacksson@gmail.com"
+  },
+  "assunto": "Banco de Dados",
+  "alunos": [
+    {
+      "nome": "Flavia",
+      "matricula": "555"
+    },
+    {
+      "nome": "jhonathan",
+      "matricula": "666"
+    },
+    {
+      "nome": "Roberta",
+      "matricula": "777"
+    },
+    {
+      "nome": "Gustavo",
+      "matricula": "888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e7ee1710d6d8690a91ce8e"
+  },
+  "aula_id": 3,
+  "professor": {
+    "nome": "Samantha",
+    "email": "professorSamantha@gmail.com"
+  },
+  "assunto": "Redes de Computadores",
+  "alunos": [
+    {
+      "nome": "Joao",
+      "matricula": "999"
+    },
+    {
+      "nome": "Emilia",
+      "matricula": "1111"
+    },
+    {
+      "nome": "Victor",
+      "matricula": "2222"
+    },
+    {
+      "nome": "Kayky",
+      "matricula": "3333"
+    }
+  ]
+}]
